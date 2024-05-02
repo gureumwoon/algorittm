@@ -17,3 +17,11 @@ function solution(num) {
 }
 
 solution(input)
+
+// let fs = require("fs");
+// const path = require('path');
+// const inputPath = path.join(__dirname, 'input.txt');
+// let input = fs.readFileSync(inputPath).toString();
+// console.log("input", input)
+// console.log(BigInt('0b' + input).toString(8));
+
